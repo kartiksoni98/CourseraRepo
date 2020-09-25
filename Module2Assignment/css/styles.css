@@ -17,7 +17,6 @@
   }
   
   div>section {
-    position: absolute;
     text-align: right;
   }
 
@@ -35,7 +34,6 @@
   /* Simple Responsive Framework. */
   .row {
     width: 100%;
-    position: relative;
   }
   
   /********** Large devices only **********/
