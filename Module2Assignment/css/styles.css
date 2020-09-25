@@ -16,7 +16,7 @@
     text-align: center;
   }
   
-  div>section {
+  .sectiontitle {
     position: absolute;
     top: 0px;
     right: 0px;
