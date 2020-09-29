@@ -4,11 +4,11 @@
   }
 
   body {
-    margin: 5px;
+    margin: 10px;
   }
   
   h1 {
-    margin-bottom: 25px;
+    margin-bottom: 35px;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
   }
@@ -17,9 +17,9 @@
     border: 1px solid black;
     position: relative;
     background-color: grey;
-    margin-bottom: 15px;
-    margin-left: 5px;
-    margin-right: 5px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
   }
 
   .sectiontitle {
@@ -38,9 +38,9 @@
     width: 90%;
     margin-right: auto;
     margin-left: auto;
-    font-family: Helvetica;
+    font-family: Helvetica, sans-serif;
     color: white;
-    margin-top: 40px;
+    margin-top: 45px;
   }
 
   /* Simple Responsive Framework. */
@@ -54,6 +54,7 @@
 
   #beeftitle {
     background-color: red;
+    color: white;
   }
 
   #sushititle {
